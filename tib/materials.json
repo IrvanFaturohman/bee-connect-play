@@ -1,0 +1,851 @@
+{
+ "Environment": {
+  "colors": {
+   "_BaseColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+   },
+   "_Color": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+   },
+   "_Emission1": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+   },
+   "_EmissionColor": {
+    "r": 0.30188679695129395,
+    "g": 0.30188679695129395,
+    "b": 0.30188679695129395,
+    "a": 1.0
+   },
+   "_HColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+   },
+   "_MatCapColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+   },
+   "_OutlineColor": {
+    "r": 0.0,
+    "g": 0.0,
+    "b": 0.0,
+    "a": 1.0
+   },
+   "_ReflectionColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+   },
+   "_RimColor": {
+    "r": 0.800000011920929,
+    "g": 0.800000011920929,
+    "b": 0.800000011920929,
+    "a": 0.5
+   },
+   "_SColor": {
+    "r": 0.7168921232223511,
+    "g": 0.7769668698310852,
+    "b": 0.849056601524353,
+    "a": 1.0
+   },
+   "_SpecularColor": {
+    "r": 0.75,
+    "g": 0.75,
+    "b": 0.75,
+    "a": 1.0
+   }
+  },
+  "floats": {
+   "_BumpScale": 1.0,
+   "_Cull": 2.0,
+   "_Cutoff": 0.5,
+   "_DetailNormalMapScale": 1.0,
+   "_DirectIntensityOutline": 1.0,
+   "_DstBlend": 0.0,
+   "_EmissionChannel": 4.0,
+   "_FresnelMax": 1.5,
+   "_FresnelMin": 0.0,
+   "_GlossMapScale": 1.0,
+   "_Glossiness": 0.0,
+   "_GlossyReflections": 1.0,
+   "_IndirectIntensity": 1.0,
+   "_IndirectIntensityOutline": 0.0,
+   "_MatCapMaskChannel": 0.0,
+   "_MatCapType": 0.0,
+   "_Metallic": 0.0,
+   "_Mode": 0.0,
+   "_NormalsSource": 0.0,
+   "_NormalsUVType": 0.0,
+   "_OcclusionChannel": 0.0,
+   "_OcclusionStrength": 1.0,
+   "_OutlineLightingType": 0.0,
+   "_OutlineLightingTypeURP": 0.0,
+   "_OutlineMaxWidth": 1.0,
+   "_OutlineMinWidth": 1.0,
+   "_OutlinePixelSizeType": 0.0,
+   "_OutlineTextureLOD": 5.0,
+   "_OutlineTextureType": 0.0,
+   "_OutlineWidth": 1.0,
+   "_Parallax": 0.019999999552965164,
+   "_RampBands": 4.0,
+   "_RampBandsSmoothing": 0.10000000149011612,
+   "_RampOffset": 0.0,
+   "_RampScale": 1.0,
+   "_RampSmoothing": 0.949999988079071,
+   "_RampThreshold": 0.8349999785423279,
+   "_RampType": 0.0,
+   "_ReceiveShadowsOff": 1.0,
+   "_ReflectionMapType": 0.0,
+   "_ReflectionSmoothness": 0.5,
+   "_RenderingMode": 0.0,
+   "_RimMax": 1.0,
+   "_RimMin": 0.5,
+   "_ShadowColorLightAtten": 1.0,
+   "_SingleIndirectColor": 0.0,
+   "_SmoothnessTextureChannel": 0.0,
+   "_SpecularHighlights": 1.0,
+   "_SpecularMapType": 0.0,
+   "_SpecularRoughness": 0.5,
+   "_SpecularToonSize": 0.25,
+   "_SpecularToonSmoothness": 0.05000000074505806,
+   "_SpecularType": 0.0,
+   "_SrcBlend": 1.0,
+   "_UVSec": 0.0,
+   "_UseAlphaTest": 0.0,
+   "_UseEmission": 0.0,
+   "_UseFresnelReflections": 1.0,
+   "_UseMatCap": 0.0,
+   "_UseMatCapMask": 0.0,
+   "_UseMobileMode": 0.0,
+   "_UseNormalMap": 0.0,
+   "_UseOcclusion": 0.0,
+   "_UseOutline": 0.0,
+   "_UseReflections": 0.0,
+   "_UseRim": 0.0,
+   "_UseRimLightMask": 1.0,
+   "_UseShadowTexture": 0.0,
+   "_UseSpecular": 0.0,
+   "_ZWrite": 1.0,
+   "__dummy__": 0.0
+  },
+  "tex": {
+   "_Emission": {
+    "file": "Environment_Emission_Texture.png",
+    "scale": [
+     1.0,
+     1.0
+    ],
+    "offset": [
+     0.0,
+     0.0
+    ]
+   },
+   "_MainTex": {
+    "file": "Environment_Texture_rec.png",
+    "scale": [
+     1.0,
+     1.0
+    ],
+    "offset": [
+     0.0,
+     0.0
+    ]
+   }
+  },
+  "keywords": null
+ },
+ "Slot": {
+  "colors": {
+   "_BaseColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+   },
+   "_Color": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+   },
+   "_Emission1": {
+    "r": 0.8915094137191772,
+    "g": 0.90826815366745,
+    "b": 1.0,
+    "a": 1.0
+   },
+   "_EmissionColor": {
+    "r": 0.30188679695129395,
+    "g": 0.30188679695129395,
+    "b": 0.30188679695129395,
+    "a": 1.0
+   },
+   "_HColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+   },
+   "_MatCapColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+   },
+   "_OutlineColor": {
+    "r": 0.0,
+    "g": 0.0,
+    "b": 0.0,
+    "a": 1.0
+   },
+   "_ReflectionColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+   },
+   "_RimColor": {
+    "r": 0.800000011920929,
+    "g": 0.800000011920929,
+    "b": 0.800000011920929,
+    "a": 0.5
+   },
+   "_SColor": {
+    "r": 0.7176470756530762,
+    "g": 0.7764706015586853,
+    "b": 0.8509804010391235,
+    "a": 1.0
+   },
+   "_SpecularColor": {
+    "r": 0.75,
+    "g": 0.75,
+    "b": 0.75,
+    "a": 1.0
+   }
+  },
+  "floats": {
+   "_BumpScale": 1.0,
+   "_Cull": 2.0,
+   "_Cutoff": 0.5,
+   "_DetailNormalMapScale": 1.0,
+   "_DirectIntensityOutline": 1.0,
+   "_DstBlend": 0.0,
+   "_EmissionChannel": 4.0,
+   "_FresnelMax": 1.5,
+   "_FresnelMin": 0.0,
+   "_GlossMapScale": 1.0,
+   "_Glossiness": 0.0,
+   "_GlossyReflections": 1.0,
+   "_IndirectIntensity": 1.0,
+   "_IndirectIntensityOutline": 0.0,
+   "_MatCapMaskChannel": 0.0,
+   "_MatCapType": 0.0,
+   "_Metallic": 0.0,
+   "_Mode": 0.0,
+   "_NormalsSource": 0.0,
+   "_NormalsUVType": 0.0,
+   "_OcclusionChannel": 0.0,
+   "_OcclusionStrength": 1.0,
+   "_OutlineLightingType": 0.0,
+   "_OutlineLightingTypeURP": 0.0,
+   "_OutlineMaxWidth": 1.0,
+   "_OutlineMinWidth": 1.0,
+   "_OutlinePixelSizeType": 0.0,
+   "_OutlineTextureLOD": 5.0,
+   "_OutlineTextureType": 0.0,
+   "_OutlineWidth": 1.0,
+   "_Parallax": 0.019999999552965164,
+   "_RampBands": 4.0,
+   "_RampBandsSmoothing": 0.10000000149011612,
+   "_RampOffset": 0.0,
+   "_RampScale": 1.0,
+   "_RampSmoothing": 0.949999988079071,
+   "_RampThreshold": 0.8349999785423279,
+   "_RampType": 0.0,
+   "_ReceiveShadowsOff": 1.0,
+   "_ReflectionMapType": 0.0,
+   "_ReflectionSmoothness": 0.5,
+   "_RenderingMode": 0.0,
+   "_RimMax": 1.0,
+   "_RimMin": 0.5,
+   "_ShadowColorLightAtten": 1.0,
+   "_SingleIndirectColor": 0.0,
+   "_SmoothnessTextureChannel": 0.0,
+   "_SpecularHighlights": 1.0,
+   "_SpecularMapType": 0.0,
+   "_SpecularRoughness": 0.5,
+   "_SpecularToonSize": 0.25,
+   "_SpecularToonSmoothness": 0.05000000074505806,
+   "_SpecularType": 0.0,
+   "_SrcBlend": 1.0,
+   "_UVSec": 0.0,
+   "_UseAlphaTest": 0.0,
+   "_UseEmission": 0.0,
+   "_UseFresnelReflections": 1.0,
+   "_UseMatCap": 0.0,
+   "_UseMatCapMask": 0.0,
+   "_UseMobileMode": 0.0,
+   "_UseNormalMap": 0.0,
+   "_UseOcclusion": 0.0,
+   "_UseOutline": 0.0,
+   "_UseReflections": 0.0,
+   "_UseRim": 0.0,
+   "_UseRimLightMask": 1.0,
+   "_UseShadowTexture": 0.0,
+   "_UseSpecular": 0.0,
+   "_ZWrite": 1.0,
+   "__dummy__": 0.0
+  },
+  "tex": {
+   "_Emission": {
+    "file": "Slot_1_Emission_Texture.png",
+    "scale": [
+     1.0,
+     1.0
+    ],
+    "offset": [
+     0.0,
+     0.0
+    ]
+   },
+   "_MainTex": {
+    "file": "Slot_1_Texture_rec.png",
+    "scale": [
+     1.0,
+     1.0
+    ],
+    "offset": [
+     0.0,
+     0.0
+    ]
+   }
+  },
+  "keywords": null
+ },
+ "FrontRow": {
+  "colors": {
+   "_BaseColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+   },
+   "_Color": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+   },
+   "_Emission1": {
+    "r": 0.8915094137191772,
+    "g": 0.90826815366745,
+    "b": 1.0,
+    "a": 1.0
+   },
+   "_EmissionColor": {
+    "r": 0.30188679695129395,
+    "g": 0.30188679695129395,
+    "b": 0.30188679695129395,
+    "a": 1.0
+   },
+   "_HColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+   },
+   "_MatCapColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+   },
+   "_OutlineColor": {
+    "r": 0.0,
+    "g": 0.0,
+    "b": 0.0,
+    "a": 1.0
+   },
+   "_ReflectionColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+   },
+   "_RimColor": {
+    "r": 0.800000011920929,
+    "g": 0.800000011920929,
+    "b": 0.800000011920929,
+    "a": 0.5
+   },
+   "_SColor": {
+    "r": 0.7176470756530762,
+    "g": 0.7764706015586853,
+    "b": 0.8509804010391235,
+    "a": 1.0
+   },
+   "_SpecularColor": {
+    "r": 0.75,
+    "g": 0.75,
+    "b": 0.75,
+    "a": 1.0
+   }
+  },
+  "floats": {
+   "_BumpScale": 1.0,
+   "_Cull": 2.0,
+   "_Cutoff": 0.5,
+   "_DetailNormalMapScale": 1.0,
+   "_DirectIntensityOutline": 1.0,
+   "_DstBlend": 0.0,
+   "_EmissionChannel": 4.0,
+   "_FresnelMax": 1.5,
+   "_FresnelMin": 0.0,
+   "_GlossMapScale": 1.0,
+   "_Glossiness": 0.0,
+   "_GlossyReflections": 1.0,
+   "_IndirectIntensity": 1.0,
+   "_IndirectIntensityOutline": 0.0,
+   "_MatCapMaskChannel": 0.0,
+   "_MatCapType": 0.0,
+   "_Metallic": 0.0,
+   "_Mode": 0.0,
+   "_NormalsSource": 0.0,
+   "_NormalsUVType": 0.0,
+   "_OcclusionChannel": 0.0,
+   "_OcclusionStrength": 1.0,
+   "_OutlineLightingType": 0.0,
+   "_OutlineLightingTypeURP": 0.0,
+   "_OutlineMaxWidth": 1.0,
+   "_OutlineMinWidth": 1.0,
+   "_OutlinePixelSizeType": 0.0,
+   "_OutlineTextureLOD": 5.0,
+   "_OutlineTextureType": 0.0,
+   "_OutlineWidth": 1.0,
+   "_Parallax": 0.019999999552965164,
+   "_RampBands": 4.0,
+   "_RampBandsSmoothing": 0.10000000149011612,
+   "_RampOffset": 0.0,
+   "_RampScale": 1.0,
+   "_RampSmoothing": 0.949999988079071,
+   "_RampThreshold": 0.8349999785423279,
+   "_RampType": 0.0,
+   "_ReceiveShadowsOff": 1.0,
+   "_ReflectionMapType": 0.0,
+   "_ReflectionSmoothness": 0.5,
+   "_RenderingMode": 0.0,
+   "_RimMax": 1.0,
+   "_RimMin": 0.5,
+   "_ShadowColorLightAtten": 1.0,
+   "_SingleIndirectColor": 0.0,
+   "_SmoothnessTextureChannel": 0.0,
+   "_SpecularHighlights": 1.0,
+   "_SpecularMapType": 0.0,
+   "_SpecularRoughness": 0.5,
+   "_SpecularToonSize": 0.25,
+   "_SpecularToonSmoothness": 0.05000000074505806,
+   "_SpecularType": 0.0,
+   "_SrcBlend": 1.0,
+   "_UVSec": 0.0,
+   "_UseAlphaTest": 0.0,
+   "_UseEmission": 0.0,
+   "_UseFresnelReflections": 1.0,
+   "_UseMatCap": 0.0,
+   "_UseMatCapMask": 0.0,
+   "_UseMobileMode": 0.0,
+   "_UseNormalMap": 0.0,
+   "_UseOcclusion": 0.0,
+   "_UseOutline": 0.0,
+   "_UseReflections": 0.0,
+   "_UseRim": 0.0,
+   "_UseRimLightMask": 1.0,
+   "_UseShadowTexture": 0.0,
+   "_UseSpecular": 0.0,
+   "_ZWrite": 1.0,
+   "__dummy__": 0.0
+  },
+  "tex": {
+   "_Emission": {
+    "file": "FrontRow_Emission_Texture.png",
+    "scale": [
+     1.0,
+     1.0
+    ],
+    "offset": [
+     0.0,
+     0.0
+    ]
+   },
+   "_MainTex": {
+    "file": "FrontRow_AB_Texture_rec.png",
+    "scale": [
+     1.0,
+     1.0
+    ],
+    "offset": [
+     0.0,
+     0.0
+    ]
+   }
+  },
+  "keywords": null
+ },
+ "1_Unit_Yellow": {
+  "colors": {
+   "_BaseColor": {
+    "r": 0.9905660152435303,
+    "g": 0.30371129512786865,
+    "b": 0.7908174395561218,
+    "a": 1.0
+   },
+   "_Color": {
+    "r": 1.0,
+    "g": 0.7450980544090271,
+    "b": 0.0,
+    "a": 1.0
+   },
+   "_Emission1": {
+    "r": 0.9528301954269409,
+    "g": 0.8437641263008118,
+    "b": 0.5438323020935059,
+    "a": 1.0
+   },
+   "_EmissionColor": {
+    "r": 0.7547169923782349,
+    "g": 0.18867924809455872,
+    "b": 0.5218534469604492,
+    "a": 1.0
+   },
+   "_HColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+   },
+   "_MatCapColor": {
+    "r": 0.6037735939025879,
+    "g": 0.6037735939025879,
+    "b": 0.6037735939025879,
+    "a": 1.0
+   },
+   "_OutlineColor": {
+    "r": 0.0,
+    "g": 0.0,
+    "b": 0.0,
+    "a": 1.0
+   },
+   "_ReflectionColor": {
+    "r": 0.7458653450012207,
+    "g": 0.0,
+    "b": 1.0,
+    "a": 1.0
+   },
+   "_RimColor": {
+    "r": 0.800000011920929,
+    "g": 0.800000011920929,
+    "b": 0.800000011920929,
+    "a": 0.5
+   },
+   "_SColor": {
+    "r": 0.8392156958580017,
+    "g": 0.3554663360118866,
+    "b": 0.0,
+    "a": 1.0
+   },
+   "_SpecularColor": {
+    "r": 1.0,
+    "g": 0.551886796951294,
+    "b": 0.8576582074165344,
+    "a": 1.0
+   }
+  },
+  "floats": {
+   "_BumpScale": 1.0,
+   "_Cull": 2.0,
+   "_Cutoff": 0.5,
+   "_DirectIntensityOutline": 1.0,
+   "_DstBlend": 0.0,
+   "_EmissionChannel": 4.0,
+   "_FresnelMax": 1.5,
+   "_FresnelMin": 0.0,
+   "_IndirectIntensity": 1.0,
+   "_IndirectIntensityOutline": 0.0,
+   "_MatCapMaskChannel": 0.0,
+   "_MatCapType": 0.0,
+   "_NormalsSource": 0.0,
+   "_NormalsUVType": 0.0,
+   "_OcclusionChannel": 0.0,
+   "_OcclusionStrength": 1.0,
+   "_OutlineLightingType": 0.0,
+   "_OutlineLightingTypeURP": 0.0,
+   "_OutlineMaxWidth": 1.0,
+   "_OutlineMinWidth": 1.0,
+   "_OutlinePixelSizeType": 0.0,
+   "_OutlineTextureLOD": 5.0,
+   "_OutlineTextureType": 0.0,
+   "_OutlineWidth": 0.0,
+   "_RampBands": 1.0,
+   "_RampBandsSmoothing": 1.0,
+   "_RampOffset": 0.0,
+   "_RampScale": 1.0,
+   "_RampSmooth": 0.699999988079071,
+   "_RampSmoothing": 0.7229999899864197,
+   "_RampThreshold": 0.5920000076293945,
+   "_RampType": 2.0,
+   "_ReceiveShadowsOff": 1.0,
+   "_ReflectionMapType": 0.0,
+   "_ReflectionSmoothness": 0.5,
+   "_RenderingMode": 0.0,
+   "_RimMax": 0.0,
+   "_RimMin": 0.009999999776482582,
+   "_ShadowColorLightAtten": 1.0,
+   "_SingleIndirectColor": 0.0,
+   "_SpecularMapType": 0.0,
+   "_SpecularRoughness": 0.8980000019073486,
+   "_SpecularToonSize": 0.0,
+   "_SpecularToonSmoothness": 0.25999999046325684,
+   "_SpecularType": 1.0,
+   "_SrcBlend": 1.0,
+   "_UseAlphaTest": 0.0,
+   "_UseEmission": 1.0,
+   "_UseFresnelReflections": 1.0,
+   "_UseMatCap": 1.0,
+   "_UseMatCapMask": 0.0,
+   "_UseMobileMode": 1.0,
+   "_UseNormalMap": 0.0,
+   "_UseOcclusion": 0.0,
+   "_UseOutline": 0.0,
+   "_UseReflections": 0.0,
+   "_UseRim": 0.0,
+   "_UseRimLightMask": 0.0,
+   "_UseShadowTexture": 0.0,
+   "_UseSpecular": 0.0,
+   "_ZWrite": 1.0,
+   "__dummy__": 0.0
+  },
+  "tex": {
+   "_Emission": {
+    "file": "GameplayUnit_Mask_1.png",
+    "scale": [
+     1.0,
+     1.0
+    ],
+    "offset": [
+     0.0,
+     0.0
+    ]
+   },
+   "_MatCapTex": {
+    "file": "GameplayUnit_Mask_2.png",
+    "scale": [
+     1.0,
+     1.0
+    ],
+    "offset": [
+     0.0,
+     0.0
+    ]
+   }
+  },
+  "keywords": [
+   "TCP2_MATCAP"
+  ]
+ },
+ "2_Shooter_Blue": {
+  "colors": {
+   "_BaseColor": {
+    "r": 0.09803921729326248,
+    "g": 0.5607843399047852,
+    "b": 1.0,
+    "a": 1.0
+   },
+   "_Color": {
+    "r": 0.09803921729326248,
+    "g": 0.5607843399047852,
+    "b": 1.0,
+    "a": 1.0
+   },
+   "_Emission": {
+    "r": 0.12156862765550613,
+    "g": 0.12156862765550613,
+    "b": 0.12156862765550613,
+    "a": 1.0
+   },
+   "_EmissionColor": {
+    "r": 0.6084905862808228,
+    "g": 0.6485504508018494,
+    "b": 1.0,
+    "a": 1.0
+   },
+   "_HColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+   },
+   "_MatCapColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+   },
+   "_OutlineColor": {
+    "r": 0.004004993475973606,
+    "g": 0.0949496477842331,
+    "b": 0.849056601524353,
+    "a": 1.0
+   },
+   "_OutlineColorVertex": {
+    "r": 0.003921568859368563,
+    "g": 0.3686274588108063,
+    "b": 0.6039215922355652,
+    "a": 1.0
+   },
+   "_ReflectionColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+   },
+   "_RimColor": {
+    "r": 0.1788002997636795,
+    "g": 0.4134044051170349,
+    "b": 0.7735849022865295,
+    "a": 0.5
+   },
+   "_RimDir": {
+    "r": 0.0,
+    "g": 0.0,
+    "b": 0.11999999731779099,
+    "a": 1.0
+   },
+   "_SColor": {
+    "r": 0.01516660489141941,
+    "g": 0.0,
+    "b": 0.2641509175300598,
+    "a": 1.0
+   },
+   "_SpecularColor": {
+    "r": 0.9764150977134705,
+    "g": 0.9884387850761414,
+    "b": 1.0,
+    "a": 1.0
+   }
+  },
+  "floats": {
+   "_BumpScale": 0.15000000596046448,
+   "_Cull": 2.0,
+   "_Cutoff": 0.5,
+   "_DetailNormalMapScale": 1.0,
+   "_DirectIntensityOutline": 1.0,
+   "_DstBlend": 0.0,
+   "_EmissionChannel": 1.0,
+   "_FresnelMax": 1.5,
+   "_FresnelMin": 0.0,
+   "_GlossMapScale": 1.0,
+   "_Glossiness": 0.5,
+   "_GlossyReflections": 1.0,
+   "_IndirectIntensity": 1.0,
+   "_IndirectIntensityOutline": 0.0,
+   "_MatCapMaskChannel": 4.0,
+   "_MatCapType": 0.0,
+   "_Metallic": 0.0,
+   "_Mode": 0.0,
+   "_NormalsSource": 0.0,
+   "_NormalsUVType": 0.0,
+   "_OcclusionChannel": 0.0,
+   "_OcclusionStrength": 1.0,
+   "_OutlineLightingType": 0.0,
+   "_OutlineLightingTypeURP": 0.0,
+   "_OutlineMaxWidth": 1.0,
+   "_OutlineMinWidth": 1.0,
+   "_OutlinePixelSizeType": 1.0,
+   "_OutlineTextureLOD": 5.0,
+   "_OutlineTextureType": 0.0,
+   "_OutlineWidth": 1.2000000476837158,
+   "_Parallax": 0.019999999552965164,
+   "_RampBands": 3.0,
+   "_RampBandsSmoothing": 0.4350000023841858,
+   "_RampOffset": -0.019999999552965164,
+   "_RampScale": 1.1399999856948853,
+   "_RampSmoothing": 0.7599999904632568,
+   "_RampThreshold": 0.5080000162124634,
+   "_RampType": 0.0,
+   "_ReceiveShadowsOff": 1.0,
+   "_ReflectionMapType": 2.0,
+   "_ReflectionSmoothness": 0.0,
+   "_RenderingMode": 0.0,
+   "_RimMax": 0.8199999928474426,
+   "_RimMin": 0.36000001430511475,
+   "_ShadowColorLightAtten": 0.0,
+   "_SingleIndirectColor": 0.0,
+   "_SmoothnessTextureChannel": 0.0,
+   "_SpecularHighlights": 1.0,
+   "_SpecularMapType": 0.0,
+   "_SpecularRoughness": 0.30399999022483826,
+   "_SpecularSmoothness": 1.25,
+   "_SpecularToonSize": 0.014999999664723873,
+   "_SpecularToonSmoothness": 1.0,
+   "_SpecularType": 1.0,
+   "_SrcBlend": 1.0,
+   "_UVSec": 0.0,
+   "_UseAlphaTest": 0.0,
+   "_UseEmission": 1.0,
+   "_UseFresnelReflections": 0.0,
+   "_UseMatCap": 1.0,
+   "_UseMatCapMask": 0.0,
+   "_UseMobileMode": 0.0,
+   "_UseNormalMap": 0.0,
+   "_UseOcclusion": 0.0,
+   "_UseOutline": 1.0,
+   "_UseReflections": 0.0,
+   "_UseRim": 1.0,
+   "_UseRimLightMask": 0.0,
+   "_UseShadowTexture": 0.0,
+   "_UseSpecular": 1.0,
+   "_ZWrite": 1.0,
+   "__dummy__": 0.0
+  },
+  "tex": {
+   "_Emission1": {
+    "file": "GameplayCharacter_Mask_1.png",
+    "scale": [
+     1.0,
+     1.0
+    ],
+    "offset": [
+     0.0,
+     0.0
+    ]
+   },
+   "_MatCapTex": {
+    "file": "GameplayCharacter_Mask_2.png",
+    "scale": [
+     1.0,
+     1.0
+    ],
+    "offset": [
+     0.0,
+     0.0
+    ]
+   }
+  },
+  "keywords": [
+   "TCP2_RIM_OUTLINE",
+   "TCP2_UV_NORMALS_FULL"
+  ]
+ }
+}
